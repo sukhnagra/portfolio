@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {Grid, Cell, Chip} from 'react-mdl'
 import profilePic from '../imgs/profile-pic.png'
-import pariPic from '../imgs/pariPic.png'
 class LandingPage extends Component {
     render() {
         return (
